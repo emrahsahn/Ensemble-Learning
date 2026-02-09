@@ -139,16 +139,6 @@ Bu proje ile şunları öğrenebilirsiniz:
 - Ensemble learning prensipleri
 - Train/Test split ve model değerlendirme
 
-## 🤝 Katkıda Bulunma
-
-Katkılarınızı bekliyorum!  Lütfen: 
-
-1. Projeyi fork edin
-2. Feature branch oluşturun (`git checkout -b feature/YeniOzellik`)
-3. Değişikliklerinizi commit edin (`git commit -m 'Yeni özellik eklendi'`)
-4. Branch'inizi push edin (`git push origin feature/YeniOzellik`)
-5. Pull Request oluşturun
-
 ## 📝 Lisans
 
 Bu proje açık kaynak olarak paylaşılmıştır ve eğitim amaçlı kullanıma açıktır. 
