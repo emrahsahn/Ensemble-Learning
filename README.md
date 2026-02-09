@@ -156,12 +156,3 @@ Bu proje açık kaynak olarak paylaşılmıştır ve eğitim amaçlı kullanıma
 ## 👨‍💻 Yazar
 
 **Emrah Şahin** - [@emrahsahn](https://github.com/emrahsahn)
-
-## 🙏 Teşekkürler
-
-- Scikit-learn ekibine harika bir kütüphane için
-- Makine öğrenmesi topluluğuna bilgi paylaşımları için
-
----
-
-⭐ Bu projeyi faydalı bulduysanız yıldız vermeyi unutmayın! 
